@@ -2,14 +2,14 @@
 
 int main(){
     int i, n ,sum=0;
-    i = 20;
+    i = 0;
     do{
         printf("Enter Interger n =");
         scanf("%d", &n);
         sum = sum + n;
-        i = i-1;
+        i = i+1;
     }
-    while (i>10);
+    while (i<10);
     {
         printf("sum=%d", sum);
     }
