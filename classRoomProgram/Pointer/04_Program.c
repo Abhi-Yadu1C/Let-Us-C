@@ -2,7 +2,7 @@
 
 int main(){
     int i;
-    char Name[]="Helloworld\n" "Abhishek Yadav\n" "Aditya Rai \n" "Aditya Ojha\n" "Deenkar\n";
+    char Name[]="Helloworld\n" "Abhishek Yadav\n" "Aditya Rai \n" "Aditya Ojha\n" "Dipankar\n";
     char *ptr;
     ptr=Name; // The base Address is assigned to char Pointer Ptr
     i = 0;

@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Input the number
+Step 3: Check if the number is less than 2. If yes, print "Not Prime" and stop.
+Step 4: For each number from 2 to the square root of the number, check if it divides the input number.
+Step 5: If any number divides the input, print "Not Prime". If no number divides, print "Prime".
+Step 6: Stop

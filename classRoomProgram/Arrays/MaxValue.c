@@ -6,10 +6,10 @@ int main(){
     for(i=0; i<10; i++){
         scanf("%d", &A[i]);
     }
-    printf("The enterd Arrays is as");
         for(i=0; i<10; i++){
             if(max>A[i]);
             max=A[i];
     }
+    printf("Maximum number is %d", max);
     return 0;
 }
